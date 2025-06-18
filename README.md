@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Use%20case-NGO%20&%20Government%20Strategy-blue?style=flat-square"/>
 </p>
 
-> **Power BI Portfolio Project** uncovering hidden patterns in national water data: access inequality, infrastructure gaps, time loss, gender risks, and budget misallocation.
+> **Power BI Project** uncovering hidden patterns in national water data: access inequality, infrastructure gaps, time loss, gender risks, and budget misallocation.
 > Designed with a clean layout, deep DAX measures, and storytelling to empower stakeholders.
 
 ---
