@@ -6,7 +6,7 @@
 <h1 align="center">💧 Maji Ndogo — Water Access & Infrastructure Dashboard (Power BI)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Power%20BI,%20DAX,%20Excel,%20SQL-00aaff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Built%20with-Power%20BI,%20DAX,%20SQL-00aaff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Insights-Crime,%20Queues,%20Access,%20Budget-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Use%20case-NGO%20&%20Government%20Strategy-blue?style=flat-square"/>
 </p>
